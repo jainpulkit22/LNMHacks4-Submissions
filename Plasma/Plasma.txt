@@ -1,0 +1,33 @@
+DESCRIPTION OF THE PROJECT
+
+Our project breathe aims at connecting all the hospitals through a channel and also register recipients and donars individually, so that whenever their is availability of an organ at any of the hospital in any corner of the country then we will notify all the hospitals and the recipients who require that organ and they would then be asked to produce the medical reports and if the organ is found to be compatible with the recipient then the contact details of the respective hospital will be shared with the recipient as well as the hospital nearby him to facilitate the smooth transplant of the organ.
+So, our main aim is to help the one in need and thus save numerous lives and also preventing the organs from getting wasted, because we know that there are lakhs of organs that are wasted every year due to their inability to find a suitable match for it within the lifespan of that organ after which it is of no use. And presently there is no active channel that connects all the hospitals, donors and recipients
+for the same. Also the data of donors will be completely anonymouus to that of recepients and hospitals and vice versa.
+
+
+CONTENTS OF THE PROJECT DIRECTORY(Organ__Donation)
+
+1)css
+2)fonts
+3)img
+4)js
+5)node_modules
+5)views
+6)app javascript
+7)index.html
+8)login.html
+9)package.json
+10)package-lock.json
+11)README.md
+12)signup.html
+
+WAYS TO RUN ON LOCAL HOST
+
+PS:-For smooth execution mongodb should also be installed in the system.
+
+STEP- 1 save the organ__donation file on the system.
+STEP- 2 change the directory of the cmd to organ__donation.
+STEP- 3 run node app.js on cmd
+STEP- 4 goto the link 					   	lakshyaakar.github.io/Organ__Donation/index.html
+
+NOTE- The static pages have been deployed on github and the non static run on the local host because we haven't deployed it into any other applications.
